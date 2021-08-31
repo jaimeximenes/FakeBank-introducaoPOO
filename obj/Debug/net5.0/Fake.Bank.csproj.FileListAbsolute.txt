@@ -1,0 +1,16 @@
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\Fake.Bank.exe
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\Fake.Bank.deps.json
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\Fake.Bank.runtimeconfig.json
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\Fake.Bank.runtimeconfig.dev.json
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\Fake.Bank.dll
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\ref\Fake.Bank.dll
+C:\ProjetoDIO\Fake.Bank\bin\Debug\net5.0\Fake.Bank.pdb
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.csproj.AssemblyReference.cache
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.AssemblyInfoInputs.cache
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.AssemblyInfo.cs
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.csproj.CoreCompileInputs.cache
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.dll
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\ref\Fake.Bank.dll
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.pdb
+C:\ProjetoDIO\Fake.Bank\obj\Debug\net5.0\Fake.Bank.genruntimeconfig.cache
